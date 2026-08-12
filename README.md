@@ -1,5 +1,5 @@
 # Personalized-Finance-Assistant
-Stock Market Analytics Data Engineering Project
+Stock Market Analytics with Agentic AI
 
 ## Project Problem Statement -
  
